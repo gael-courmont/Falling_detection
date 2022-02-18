@@ -1,0 +1,5 @@
+/data
+/model_checkpoints
+/__pycache__
+ConvLSTM_150.pth
+/assets
